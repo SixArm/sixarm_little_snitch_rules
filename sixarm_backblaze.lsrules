@@ -1,0 +1,22 @@
+{
+  "name" : "sixarm_backblaze",
+  "description" : "SixArm.com & Backblaze.com",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554952547.2199888,
+      "modificationDate" : 1554952547.2199888,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote-domains" : "backblaze.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555108773.094497,
+      "modificationDate" : 1555108773.094497,
+      "owner" : "system",
+      "process" : "\/Library\/Backblaze.bzpkg\/bztransmit",
+      "remote-domains" : "backblazeb2.com"
+    }
+  ]
+}

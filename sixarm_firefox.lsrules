@@ -1,0 +1,21 @@
+{
+  "name" : "sixarm_firefox",
+  "description" : "SixArm.com & Firefox.com",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1555108982.2970681,
+      "modificationDate" : 1555108982.2970681,
+      "owner" : "me",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox",
+      "remote-domains" : [
+        "eff.org",
+        "firefox.com",
+        "letsencrypt.org",
+        "mozilla.com",
+        "mozilla.net",
+        "mozilla.org"
+      ]
+    }
+  ]
+}

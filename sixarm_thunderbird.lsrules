@@ -1,0 +1,21 @@
+{
+  "name" : "sixarm_thunderbird",
+  "description" : "SixArm.com & Thunderbird.net",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1555255978.022033,
+      "modificationDate" : 1555255978.022033,
+      "owner" : "me",
+      "process" : "\/Applications\/Thunderbird.app\/Contents\/MacOS\/thunderbird",
+      "remote-domains" : [
+        "eff.org",
+        "firefox.com",
+        "letsencrypt.org",
+        "mozilla.com",
+        "mozilla.net",
+        "mozilla.org"
+      ]
+    },
+  ]
+}

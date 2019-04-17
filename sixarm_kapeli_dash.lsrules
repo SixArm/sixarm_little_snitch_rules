@@ -1,0 +1,30 @@
+{
+  "name" : "sixarm_kapeli_dash",
+  "description" : "SixArm.com & Kapeli.com Dash",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554952355.4435191,
+      "modificationDate" : 1554952355.4435191,
+      "owner" : "me",
+      "process" : "\/Applications\/Dash.app\/Contents\/MacOS\/Dash",
+      "remote-domains" : "kapeli.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952374.574614,
+      "modificationDate" : 1554952374.574614,
+      "owner" : "me",
+      "process" : "\/Applications\/Dash.app\/Contents\/MacOS\/Dash",
+      "remote-domains" : "hockeyapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952379.9778562,
+      "modificationDate" : 1554952379.9778562,
+      "owner" : "me",
+      "process" : "\/Applications\/Dash.app\/Contents\/MacOS\/Dash",
+      "remote-domains" : "rubygems.org"
+    }
+  ]
+}

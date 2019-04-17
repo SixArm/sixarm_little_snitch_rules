@@ -1,0 +1,22 @@
+{
+  "name" : "sixarm_adobe",
+  "description" : "SixArm.com & Adobe.com",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554958322.385777,
+      "modificationDate" : 1554958322.385777,
+      "owner" : "me",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554955742.6308699,
+      "modificationDate" : 1554955742.6308699,
+      "owner" : "system",
+      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
+      "remote-domains" : "adobe.com"
+    },
+  ]
+}

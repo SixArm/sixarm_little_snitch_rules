@@ -1,0 +1,144 @@
+{
+  "name" : "sixarm_microsoft_office",
+  "description" : "SixArm.com & Microsoft.com Office",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1555112088.2393689,
+      "modificationDate" : 1555112088.2393689,
+      "owner" : "me",
+      "process" : "\/Library\/Application Support\/Microsoft\/MAU2.0\/Microsoft AutoUpdate.app\/Contents\/MacOS\/Microsoft AU Daemon.app\/Contents\/MacOS\/Microsoft AU Daemon",
+      "remote-domains" : "microsoft.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112087.1804309,
+      "modificationDate" : 1555112087.1804309,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Excel.app\/Contents\/MacOS\/Microsoft Excel",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112085.1255779,
+      "modificationDate" : 1555112085.1255779,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Excel.app\/Contents\/SharedSupport\/Office365ServiceV2.app\/Contents\/MacOS\/Office365ServiceV2",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112087.1804309,
+      "modificationDate" : 1555112087.1804309,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft OneNote.app\/Contents\/MacOS\/Microsoft OneNote",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112085.1255779,
+      "modificationDate" : 1555112085.1255779,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft OneNote.app\/Contents\/SharedSupport\/Office365ServiceV2.app\/Contents\/MacOS\/Office365ServiceV2",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112087.1804309,
+      "modificationDate" : 1555112087.1804309,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Outlook.app\/Contents\/MacOS\/Microsoft Outlook",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112085.1255779,
+      "modificationDate" : 1555112085.1255779,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Outlook.app\/Contents\/SharedSupport\/Office365ServiceV2.app\/Contents\/MacOS\/Office365ServiceV2",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112087.1804309,
+      "modificationDate" : 1555112087.1804309,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft PowerPoint.app\/Contents\/MacOS\/Microsoft PowerPoint",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112085.1255779,
+      "modificationDate" : 1555112085.1255779,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft PowerPoint.app\/Contents\/SharedSupport\/Office365ServiceV2.app\/Contents\/MacOS\/Office365ServiceV2",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112087.1804309,
+      "modificationDate" : 1555112087.1804309,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Word.app\/Contents\/MacOS\/Microsoft Word",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555112085.1255779,
+      "modificationDate" : 1555112085.1255779,
+      "owner" : "me",
+      "process" : "\/Applications\/Microsoft Word.app\/Contents\/SharedSupport\/Office365ServiceV2.app\/Contents\/MacOS\/Office365ServiceV2",
+      "remote-domains" : [
+        "live.com",
+        "microsoft.com",
+        "office.com",
+        "office.net"
+      ]
+    }
+  ]
+}

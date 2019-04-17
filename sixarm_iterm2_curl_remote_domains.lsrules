@@ -1,0 +1,22 @@
+{
+  "description" : "sixarm_iterm2_curl_remote_domains",
+  "name" : "SixArm.com & iTerm2.com via curl to remote domains",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1555270180.3058119,
+      "modificationDate" : 1555270180.3058119,
+      "owner" : "any",
+      "process" : "\/Applications\/iTerm.app\/Contents\/MacOS\/iTerm2",
+      "via" : "\/usr\/bin\/curl",
+      "remote-domains" : [
+        "bitbucket.org",
+        "clojure.org",
+        "documentfoundation.org",
+        "github.com",
+        "mysql.com",
+        "s3.amazonaws.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name" : "sixarm_jetbrains",
+  "description" : "SixArm.com & JetBrains.com",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/AndroidStudio\/ch-0\/182.5314842\/Android Studio.app\/Contents\/MacOS\/studio",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/AppCode\/ch-0\/191.6183.117\/AppCode.app\/Contents\/MacOS\/appcode",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/CLion\/ch-0\/191.6183.77\/CLion.app\/Contents\/MacOS\/clion",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/Goland\/ch-0\/191.6183.86\/GoLand.app\/Contents\/MacOS\/goland",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/IDEA-U\/ch-0\/191.6183.87\/IntelliJ IDEA.app\/Contents\/MacOS\/idea",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/MPS\/ch-0\/183.1786\/MPS 2018.3.app\/Contents\/MacOS\/mps",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/PhpStorm\/ch-0\/191.6183.95\/PhpStorm.app\/Contents\/MacOS\/phpstorm",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/PyCharm-P\/ch-0\/191.6605.12\/PyCharm.app\/Contents\/MacOS\/pycharm",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/Rider\/ch-0\/183.6092.12\/Rider.app\/Contents\/MacOS\/rider",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/RubyMine\/ch-0\/191.6183.108\/RubyMine.app\/Contents\/MacOS\/rubymine",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/WebStorm\/ch-0\/191.6183.63\/WebStorm.app\/Contents\/MacOS\/webstorm",
+      "remote-domains" : "jetbrains.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952616.6693161,
+      "modificationDate" : 1554952616.6693161,
+      "owner" : "me",
+      "process" : "\/Applications\/JetBrains\/Toolbox\/apps\/datagrip\/ch-0\/191.6707.12\/DataGrip.app\/Contents\/MacOS\/datagrip",
+      "remote-domains" : "jetbrains.com"
+    },
+  ]
+}

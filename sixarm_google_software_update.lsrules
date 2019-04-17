@@ -1,0 +1,29 @@
+{
+  "name" : "sixarm_google_software_update",
+  "description" : "SixArm.com & Google.com Software Update",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554952434.049437,
+      "modificationDate" : 1554952434.049437,
+      "owner" : "me",
+      "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/MacOS\/ksfetch",
+      "remote-domains" : [
+        "google.com",
+        "gvt1.com"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1554952426.4905601,
+      "modificationDate" : 1554952426.4905601,
+      "owner" : "me",
+      "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Resources\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+      "remote-domains" : [
+        "google.com",
+        "gvt1.com"
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "name" : "sixarm_sublime_text",
+  "description" : "SixArm.com & SublimeText.com",
+  "rules" : [    {
+      "action" : "allow",
+      "creationDate" : 1554953796.4951701,
+      "modificationDate" : 1554953796.4951701,
+      "owner" : "me",
+      "process" : "\/Applications\/Sublime Text.app\/Contents\/MacOS\/Sublime Text",
+      "remote-domains" : "sublimetext.com"
+    }
+  ]
+}

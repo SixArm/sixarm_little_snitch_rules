@@ -1,0 +1,30 @@
+{
+  "name" : "sixarm_duetdisplay",
+  "description" : "SixArm.com & DuetDisplay.com",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554952851.8692632,
+      "modificationDate" : 1554952851.8692632,
+      "owner" : "me",
+      "process" : "\/Applications\/duet.app\/Contents\/MacOS\/duet",
+      "remote-domains" : "duetdisplay.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555247480.963824,
+      "modificationDate" : 1555247480.963824,
+      "owner" : "me",
+      "process" : "\/Applications\/duet.app\/Contents\/MacOS\/duet",
+      "remote-domains" : "crashlytics.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555120239.1531858,
+      "modificationDate" : 1555120239.1531858,
+      "owner" : "me",
+      "process" : "\/Applications\/duet.app\/Contents\/MacOS\/duet",
+      "remote-domains" : "digitaloceanspaces.com"
+    }
+  ]
+}
