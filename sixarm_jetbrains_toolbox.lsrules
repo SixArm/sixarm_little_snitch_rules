@@ -1,6 +1,6 @@
 {
   "name" : "sixarm_jetbrains",
-  "description" : "SixArm.com & JetBrains.com",
+  "description" : "SixArm.com & JetBrains.com Toolbox",
   "rules" : [
     {
       "action" : "allow",
